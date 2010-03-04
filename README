@@ -1,0 +1,3 @@
+* drop github bits into your ext dir
+* updated the CAS URLs in web.xml and portal-ext.properties
+* ant deploy, and you should be good to go.
